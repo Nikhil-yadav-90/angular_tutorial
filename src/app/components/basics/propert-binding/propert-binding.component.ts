@@ -7,7 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class PropertBindingComponent implements OnInit {
 
-  name:string = "Nikhil Yadav"
+  name:string = "Arun Medicos";
+  enable:boolean  = true;
 
 
 

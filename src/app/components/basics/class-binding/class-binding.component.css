@@ -1,0 +1,14 @@
+div{
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.class1{
+    background-color: aqua;
+}
+.class2{
+    font-style: italic  ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.class3{
+    border: 5px solid black;
+}
